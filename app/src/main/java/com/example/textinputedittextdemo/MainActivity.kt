@@ -14,6 +14,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        supportActionBar?.hide()
+
         val checkClicked = findViewById<TextInputLayout>(R.id.textinputLayoutCustom)
         val checkPhoneError = findViewById<TextInputEditText>(R.id.textinputEditTextPhone)
         val checkPhoneErrorLayout = findViewById<TextInputLayout>(R.id.textinputLayoutPhone)

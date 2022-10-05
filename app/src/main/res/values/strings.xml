@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TextInputEditTextDemo</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="custom">Custom</string>
+    <string name="number">Number</string>
 </resources>
