@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">TextInputEditTextDemo</string>
-    <string name="name">Name</string>
-    <string name="password">Password</string>
-    <string name="custom">Custom</string>
-    <string name="number">Number</string>
+    <string name="name">Clear Text</string>
+    <string name="password">Password Toggle</string>
+    <string name="custom">Custom Check</string>
+    <string name="number">Prefix Number</string>
 </resources>
